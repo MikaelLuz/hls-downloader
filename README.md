@@ -1,6 +1,11 @@
 # HLS / M3U8 Downloader v2 — CLI refatorada
 
-Este projeto reorganiza o script Python original em módulos, **sem exigir FastAPI ou extensão Chrome** nesta etapa. A interface de terminal permanece como antes. Use apenas com vídeos que você tem autorização para baixar; não contorna DRM.
+Este projeto tem como objetivo o estudo e aplicabilidade do Python para uso no dia a dia.
+A ideia central é ter um 'downloader' de videos existentes em plataformas com o formato M3U8 **sem exigir FastAPI ou extensão Chrome** nesta etapa.
+
+Qualquer uso desenfreado e fora do escopo de acesso de usuario a qualquer plataforma é veementemente repudiado.
+
+Use-o como um plugin de aprendizado.
 
 ## Requisitos
 
