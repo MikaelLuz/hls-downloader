@@ -1,0 +1,7 @@
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/.playwright_session/
+**/downloads/
+*.mp4
+*.part
